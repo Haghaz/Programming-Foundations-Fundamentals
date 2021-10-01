@@ -1,0 +1,10 @@
+# Programming-Foundations-Fundamentals
+#print example
+
+print("Hello word!")
+
+
+#other examples
+
+print("My name is Hajar.")
+print("Good bye word!")
